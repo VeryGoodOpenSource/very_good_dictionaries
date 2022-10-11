@@ -2,7 +2,10 @@ blazingly
 codegen
 dartfrog
 data
+gcloud
 genhtml
+lcov
+livestream
 minimalistic
 mocktail
 pana
