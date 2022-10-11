@@ -9,6 +9,7 @@ livestream
 minimalistic
 mocktail
 pana
+pubspec
 quickstart
 roadmap
 todos
