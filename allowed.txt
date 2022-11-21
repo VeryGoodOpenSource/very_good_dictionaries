@@ -2,6 +2,7 @@ blazingly
 codegen
 dartfrog
 data
+endtemplate
 firebase
 formz
 gcloud
@@ -16,3 +17,4 @@ quickstart
 roadmap
 supabase
 todos
+unawaited
