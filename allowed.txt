@@ -3,6 +3,7 @@ codegen
 dartfrog
 data
 firebase
+formz
 gcloud
 genhtml
 lcov
