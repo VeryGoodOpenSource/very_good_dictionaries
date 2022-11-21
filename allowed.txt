@@ -2,6 +2,7 @@ blazingly
 codegen
 dartfrog
 data
+firebase
 gcloud
 genhtml
 lcov
@@ -12,4 +13,5 @@ pana
 pubspec
 quickstart
 roadmap
+supabase
 todos
