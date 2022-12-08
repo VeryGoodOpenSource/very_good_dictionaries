@@ -46,7 +46,6 @@
 !set-up
 !standup
 !start-up
-!subcommand
 !sub-tree
 !time-frame
 !time-out
