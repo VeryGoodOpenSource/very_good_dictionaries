@@ -4,6 +4,7 @@ dartfrog
 data
 endtemplate
 firebase
+firestore
 formz
 gcloud
 genhtml
