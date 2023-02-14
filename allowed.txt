@@ -19,3 +19,16 @@ roadmap
 supabase
 todos
 unawaited
+xcworkspace
+xcassets
+xcconfig
+xcplayground
+xcshareddata
+xcscheme
+xctest
+xctool
+xctrunner
+xctemplate
+xcodeproj
+xcodeb
+xcode
